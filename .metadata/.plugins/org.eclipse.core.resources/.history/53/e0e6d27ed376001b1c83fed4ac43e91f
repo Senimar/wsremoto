@@ -1,0 +1,36 @@
+package repeticao;
+
+import javax.swing.JOptionPane;
+
+public class DoDesafio {
+
+	public static void main(String[] args) {
+	
+		int valor = Integer.parseInt(JOptionPane.showInputDialog("Digite um valor"));
+		int chute = 0;
+		do {
+			chute = Integer.parseInt(JOptionPane.showInputDialog("Adivinhe o valor"));	
+        }while(valor!=chute);
+		
+		System.out.println("Parabéns");
+	
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

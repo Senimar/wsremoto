@@ -1,0 +1,47 @@
+package variaveis;
+
+public class Itau {
+
+	//Toda classe deve começar com letra maiuscula
+	//Java é Orientado a Objetos
+	/*
+	 * O Java utiliza a arquitetura Hibrida
+	 * A ilha de Java possui o melhor café do mundo
+	 */
+	
+	public static void main(String args[]) {
+		
+		System.out.print("Hello world");
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
